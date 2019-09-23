@@ -1,4 +1,3 @@
-# game-seeder
 # Become a Game Distribution Company in 3 Commands!
 
 One Paragraph of project description goes here
