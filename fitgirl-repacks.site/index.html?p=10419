@@ -1,0 +1,443 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) & !(IE 8)]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<title>Wolfenstein: Youngblood &#8211; Deluxe Edition &#8211; v1.0.3 + 3 DLCs | FitGirl Repacks</title>
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://fitgirl-repacks.site/xmlrpc.php">
+	<!--[if lt IE 9]>
+	<script src="http://fitgirl-repacks.site/wp-content/themes/twentyfourteen/js/html5.js"></script>
+	<![endif]-->
+	<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="FitGirl Repacks &raquo; Feed" href="http://fitgirl-repacks.site/feed/" />
+<link rel="alternate" type="application/rss+xml" title="FitGirl Repacks &raquo; Comments Feed" href="http://fitgirl-repacks.site/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="FitGirl Repacks &raquo; Wolfenstein: Youngblood &#8211; Deluxe Edition &#8211; v1.0.3 + 3 DLCs Comments Feed" href="http://fitgirl-repacks.site/wolfenstein-youngblood/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/fitgirl-repacks.site\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.0.2"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='twentyfourteen-jetpack-css'  href='http://fitgirl-repacks.site/wp-content/plugins/jetpack/modules/theme-tools/compat/twentyfourteen.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='http://fitgirl-repacks.site/wp-includes/css/dist/block-library/style.min.css?ver=5.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='twentyfourteen-lato-css'  href='https://fonts.googleapis.com/css?family=Lato%3A300%2C400%2C700%2C900%2C300italic%2C400italic%2C700italic&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='http://fitgirl-repacks.site/wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css?ver=3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='twentyfourteen-style-css'  href='http://fitgirl-repacks.site/wp-content/themes/twentyfourteen/style.css?ver=5.0.2' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentyfourteen-ie-css'  href='http://fitgirl-repacks.site/wp-content/themes/twentyfourteen/css/ie.css?ver=20131205' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='jetpack_css-css'  href='http://fitgirl-repacks.site/wp-content/plugins/jetpack/css/jetpack.css?ver=5.5.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://fitgirl-repacks.site/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://fitgirl-repacks.site/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://fitgirl-repacks.site/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://fitgirl-repacks.site/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://fitgirl-repacks.site/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='DARQ' href='http://fitgirl-repacks.site/darq/' />
+<link rel='next' title='Remnant: From the Ashes &#8211; v1.0.214094 + DLC + Multiplayer' href='http://fitgirl-repacks.site/remnant-from-the-ashes/' />
+<meta name="generator" content="WordPress 5.0.2" />
+<link rel="canonical" href="http://fitgirl-repacks.site/wolfenstein-youngblood/" />
+<link rel='shortlink' href='http://fitgirl-repacks.site/?p=10419' />
+<link rel="alternate" type="application/json+oembed" href="http://fitgirl-repacks.site/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ffitgirl-repacks.site%2Fwolfenstein-youngblood%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://fitgirl-repacks.site/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ffitgirl-repacks.site%2Fwolfenstein-youngblood%2F&#038;format=xml" />
+<style type='text/css'>img#wpstats{display:none}</style>	<style type="text/css" id="twentyfourteen-header-css">
+			.site-title a {
+			color: #f887ff;
+		}
+		</style>
+	<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #0a0a0a; }
+</style>
+<link rel="icon" href="http://fitgirl-repacks.site/wp-content/uploads/2016/08/cropped-icon-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="http://fitgirl-repacks.site/wp-content/uploads/2016/08/cropped-icon-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://fitgirl-repacks.site/wp-content/uploads/2016/08/cropped-icon-180x180.jpg" />
+<meta name="msapplication-TileImage" content="http://fitgirl-repacks.site/wp-content/uploads/2016/08/cropped-icon-270x270.jpg" />
+<meta name="yandex-verification" content="e9e371f57f200b9b" />
+<style>
+#disqus_thread {
+    width: 80% !important;
+    margin: 0 auto !important;
+}
+</style>
+
+</head>
+
+<body class="post-template-default single single-post postid-10419 single-format-standard custom-background masthead-fixed full-width singular">
+<div id="page" class="hfeed site">
+	
+	<header id="masthead" class="site-header" role="banner">
+		<div class="header-main">
+			<h1 class="site-title"><a href="http://fitgirl-repacks.site/" rel="home">FitGirl Repacks</a></h1>
+
+			<div class="search-toggle">
+				<a href="#search-container" class="screen-reader-text" aria-expanded="false" aria-controls="search-container">Search</a>
+			</div>
+
+			<nav id="primary-navigation" class="site-navigation primary-navigation" role="navigation">
+				<button class="menu-toggle">Primary Menu</button>
+				<a class="screen-reader-text skip-link" href="#content">Skip to content</a>
+				<div class="menu-main-menu-container"><ul id="primary-menu" class="nav-menu"><li id="menu-item-1531" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1531"><a href="http://fitgirl-repacks.site/all-my-repacks-a-z/">All My Repacks, A-Z</a></li>
+<li id="menu-item-1532" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1532"><a href="http://fitgirl-repacks.site/faq/">FAQ</a></li>
+<li id="menu-item-1533" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1533"><a href="http://fitgirl-repacks.site/donations/">Donate</a>
+<ul class="sub-menu">
+	<li id="menu-item-8964" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8964"><a href="http://fitgirl-repacks.site/donate-by-mining/">Donate by Mining</a></li>
+</ul>
+</li>
+<li id="menu-item-1534" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1534"><a href="http://fitgirl-repacks.site/contacts/">Contacts</a></li>
+<li id="menu-item-1707" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1707"><a href="http://fitgirl-repacks.site/repacks-troubleshooting/">Repacks Troubleshooting</a></li>
+</ul></div>			</nav>
+		</div>
+
+		<div id="search-container" class="search-box-wrapper hide">
+			<div class="search-box">
+				<form role="search" method="get" class="search-form" action="http://fitgirl-repacks.site/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form>			</div>
+		</div>
+	</header><!-- #masthead -->
+
+	<div id="main" class="site-main">
+
+	<div id="primary" class="content-area">
+		<div id="content" class="site-content" role="main">
+			
+<article id="post-10419" class="post-10419 post type-post status-publish format-standard hentry category-lossless-repack">
+	
+	<header class="entry-header">
+				<div class="entry-meta">
+			<span class="cat-links" id="potato"><a href="http://fitgirl-repacks.site/category/lossless-repack/" rel="category tag">Lossless Repack</a></span>
+		</div>
+		<h1 class="entry-title">Wolfenstein: Youngblood &#8211; Deluxe Edition &#8211; v1.0.3 + 3 DLCs</h1>
+		<div class="entry-meta">
+			<span class="entry-date"><a href="http://fitgirl-repacks.site/wolfenstein-youngblood/" rel="bookmark"><time class="entry-date" datetime="2019-08-16T22:38:22+00:00">August 16, 2019</time></a></span> <span class="byline"><span class="author vcard"><a class="url fn n" href="http://fitgirl-repacks.site/author/admin-fitgirl/" rel="author">FitGirl</a></span></span>			<span class="comments-link"><a href="http://fitgirl-repacks.site/wolfenstein-youngblood/#respond"><span class="dsq-postid" data-dsqidentifier="10419 http://fitgirl-repacks.site/?p=10419">Leave a comment</span></a></span>
+					</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<h3><span style="color: #339966;">#1177</span> <strong>Wolfenstein: Youngblood &#8211; Deluxe Edition<span style="color: #808080;"> v1.0.3 + 3 DLCs</span></strong></h3>
+<p style="height: 200px; display: block;"><a target="_blank" href="http://en.riotpixels.com/games/wolfenstein-youngblood/"><img class="alignleft" width="150" src="https://i86.fastpic.ru/big/2019/0817/69/5ff5ab8f3fc70beb44f5d3a9eb8ad169.jpg" /></a><br />
+Genres/Tags: <strong>Action, Shooter, First-person, 3D</strong><br />
+Companies: <strong>MachineGames, Arkane Studios, Bethesda Softworks</strong><br />
+Languages: <strong>RUS/ENG/MULTI12</strong><br />
+Original Size: <strong>37 GB</strong><br />
+Repack Size: <strong>from 28.6 GB</strong> [Selective Download]
+<p></p>
+<h3>Download Mirrors</h3>
+<ul>
+<li><a href="https://1337x.to/torrent/3943421/Wolfenstein-Youngblood-v1-0-3-3-DLCs-MULTi12-FitGirl-Repack-Selective-Download-from-28-6-GB/" target="_blank">1337x</a> | [<a href="magnet:?xt=urn:btih:C3BC03E42083AD0EA747F73C0DC14A7D0B771EC0">magnet</a>] [<a href="http://sendfile.su/1511299" target="_blank">.torrent file only</a>]</li>
+<li><a href="http://rutor.info/torrent/713477/wolfenstein-youngblood-2019-pc-repack-ot-fitgirl" target="_blank">RuTor</a> [<a href="magnet:?xt=urn:btih:e87de11148df0b14ffeeb76493454cb5c18a96d8&#038;dn=rutor.info_Wolfenstein%3A+Youngblood+%282019%29+PC+%7C+RePack+%D0%BE%D1%82+FitGirl&#038;tr=udp://opentor.org:2710&#038;tr=udp://opentor.org:2710&#038;tr=http://retracker.local/announce">magnet</a>] ENG/RUS VO Only</li>
+<li><a href="https://tapochek.net/viewtopic.php?p=2611590" target="_blank">Tapochek.net</a> ENG/RUS VO Only</li>
+<li><a href="https://paste2.org/7UxYbdhy" target="_blank">Filehoster: MultiUpload</a> (10+ hosters, interchangeable) [Use <a href="http://jdownloader.org/jdownloader2" target="_blank">JDownloader2</a>]</li>
+<li><a href="https://pastebin.com/raw/fbZNXNrm" target="_blank" rel="noopener">Filehosters: Google Drive + 2</a> (Uploaded by Uria Urikra and hermietkreeft, compatible with torrent)</li>
+<li><a href="https://www.worldsrc.org/games/detalis?Ty=1475" target="_blank" rel="noopener">Filehoster: WorldSrc</a> (NOT compatible with other mirrors)</li>
+</ul>
+<p><a href="https://cs.rin.ru/forum/viewtopic.php?f=10&#038;t=90076" target="_blank">Discussion and (possible) future updates on CS.RIN.RU thread</a></p>
+<h3>Screenshots (Click to enlarge)</h3>
+<p><a target="_blank" href="http://en.riotpixels.com/games/wolfenstein-youngblood/screenshots/13/?utm_source=emb-gfx-html&#038;utm_medium=image&#038;utm_campaign=rp-mass"><img width="178" height="100" border="0" src="http://s01.riotpixels.net/data/b8/ab/b8ab4aad-df3a-468f-9bf4-d1c3f2d9582c.jpg.240p.jpg"></a><a target="_blank" href="http://en.riotpixels.com/games/wolfenstein-youngblood/screenshots/11/?utm_source=emb-gfx-html&#038;utm_medium=image&#038;utm_campaign=rp-mass"><img width="178" height="100" border="0" src="http://s01.riotpixels.net/data/3b/07/3b078760-c6ed-45f1-a6ea-5951f4b8dd76.jpg.240p.jpg"></a><a target="_blank" href="http://en.riotpixels.com/games/wolfenstein-youngblood/screenshots/10/?utm_source=emb-gfx-html&#038;utm_medium=image&#038;utm_campaign=rp-mass"><img width="179" height="100" border="0" src="http://s01.riotpixels.net/data/56/54/5654b5aa-9599-449e-9e0b-e5d94eb0e12d.jpg.240p.jpg"></a><br />
+<a target="_blank" href="http://en.riotpixels.com/games/wolfenstein-youngblood/screenshots/7/?utm_source=emb-gfx-html&#038;utm_medium=image&#038;utm_campaign=rp-mass"><img width="178" height="100" border="0" src="http://s01.riotpixels.net/data/05/c4/05c49a3c-7159-447f-ad00-12ad915be4a8.jpg.240p.jpg"></a><a target="_blank" href="http://en.riotpixels.com/games/wolfenstein-youngblood/screenshots/5/?utm_source=emb-gfx-html&#038;utm_medium=image&#038;utm_campaign=rp-mass"><img width="178" height="100" border="0" src="http://s01.riotpixels.net/data/f4/e7/f4e763f9-0eaa-4b46-86ad-2c294df2034c.jpg.240p.jpg"></a><a target="_blank" href="http://en.riotpixels.com/games/wolfenstein-youngblood/screenshots/2/?utm_source=emb-gfx-html&#038;utm_medium=image&#038;utm_campaign=rp-mass"><img width="178" height="100" border="0" src="http://s01.riotpixels.net/data/98/e1/98e1b0ca-a23c-4106-80c6-46fa3a7e80b5.jpg.240p.jpg"></a></p>
+<h3>Repack Features</h3>
+<ul>
+<li>Based on Wolfenstein.Youngblood-CODEX ISO release: codex-wolfenstein.youngblood.iso (39,750,696,960 bytes)
+<li>3 DLCs are included and activated: Deluxe Edition Contents, Legacy Pack, Gold Bars; game version is v1.0.3
+<li>Almost 100% Lossless &#038; MD5 Perfect: all but German files are identical to originals after installation
+<li>German voiceovers were ripped (unplayable in this release anyway), NOTHING re-encoded
+<li>Selective Download feature: you can skip downloading and installing of voiceovers you don&#8217;t need
+<li>Smaller archive size (compressed from 37 to 28.6~29.7 GB, depending on selected components)
+<li>Installation takes ~20 minutes on 8-threads CPU; ~30 minutes on 4-threads CPU;
+<li>After-install integrity check so you could make sure that everything installed properly
+<li>HDD space after installation: up to 40 GB
+<li>Use &#8220;Language Selector.exe&#8221; in game root to change the game language
+<li>At least 2 GB of free RAM (inc. virtual) required for installing this repack
+</ul>
+<div class="su-spoiler su-spoiler-style-fancy su-spoiler-icon-plus su-spoiler-closed"><div class="su-spoiler-title"><span class="su-spoiler-icon"></span>Game Description</div><div class="su-spoiler-content su-clearfix" style="display:none">
+<p>Wolfenstein: Youngblood is the first modern co-op Wolfenstein adventure.</p>
+<p>Nineteen years after the events of Wolfenstein II, BJ Blazkowicz has disappeared after a mission into Nazi-occupied Paris. Now, after years of training from their battle-hardened father, BJ’s twin daughters, Jess and Soph Blazkowicz, are forced into action.</p>
+<p>Team up with a friend or play alone. Level up, explore, and complete missions to unlock new abilities, weapons, gadgets, cosmetics, and more to complement your playstyle and customize your appearance.</p>
+<p>Wolfenstein: Youngblood features the most open-ended Wolfenstein experience to date. From a new base of operations located deep in the heart of the Paris catacombs, plan how and when to attack and dismantle the Nazi regime.</p>
+</div></div>
+<div class="su-spoiler su-spoiler-style-fancy su-spoiler-icon-plus su-spoiler-closed"><div class="su-spoiler-title"><span class="su-spoiler-icon"></span>Selective Download</div><div class="su-spoiler-content su-clearfix" style="display:none">
+<p>You can skip downloading of voice packs you don&#8217;t need. Here is the list of selective files:</p>
+<ul>
+<li>fg-selective-english.bin (also REQUIRED for languages w/o their own voicepack &#8211; i.e. Chinese)
+<li>fg-selective-brazilian.bin
+<li>fg-selective-french.bin
+<li>fg-selective-russian.bin
+<li>fg-selective-italian.bin
+<li>fg-selective-spanish.bin
+<li>fg-selective-mexican.bin
+</ul>
+<p>In example, if you want to launch the game with Spanish UI/Subtitles/Voiceovers  &#8211; skip all &#8220;selective&#8221; files, but download fg-selective-spanish.bin &#038; all main files (01-09).</p>
+</div></div>
+             		
+	</div><!-- .entry-content -->
+	
+	</article>
+
+<style>
+#potatoid {
+background-color: #dfeedf;
+border: 1px solid #aad0aa;
+border-radius: 3px;
+padding: 10px;
+width: 75%;
+margin: 0 auto;
+}
+.donatebutton {
+background-color: #24890d !important;
+color: white !important;
+display: block !important;
+text-align: center !important;
+padding: 5px !important;
+text-decoration: none !important;
+margin: 0 3px;
+}
+.donatebutton:hover {
+background-color: #1d710a !important;
+}
+
+</style>
+
+<div id="potatoid">
+<table width="100%" style="border: 0; margin-bottom: 5px"><tr>
+<td width="74" style="border: 0"><img src="http://fitgirl-repacks.site/wp-content/uploads/2016/08/cropped-icon-192x192.jpg" width="64" height="64"></td>
+<td style="border: 0; vertical-align: middle;font-size:10pt">If you like what I do, please consider donating to help me maintain this site and seedboxes for my repacks. You may also donate not crypto, but your CPU/GPU power.</td>
+<td width="20%" style="border: 0; vertical-align: middle;"><a href="http://fitgirl-repacks.site/donate-by-mining/" class="donatebutton">Donate by Mining</a></td>
+<td width="20%" style="border: 0; vertical-align: middle;"><a href="http://fitgirl-repacks.site/donations/" class="donatebutton">Donate BTC</a></td>
+
+</tr>
+</table>
+
+
+</div>
+
+<!--
+<div id="potatoid" style="background-color:red; width: 100%; height: 10px;">Comments</div>
+-->
+
+
+<!-- #post-## -->
+	<nav class="navigation post-navigation" role="navigation">
+		<h1 class="screen-reader-text">Post navigation</h1>
+		<div class="nav-links">
+			<a href="http://fitgirl-repacks.site/darq/" rel="prev"><span class="meta-nav">Previous Post</span>DARQ</a><a href="http://fitgirl-repacks.site/remnant-from-the-ashes/" rel="next"><span class="meta-nav">Next Post</span>Remnant: From the Ashes &#8211; v1.0.214094 + DLC + Multiplayer</a>		</div><!-- .nav-links -->
+	</nav><!-- .navigation -->
+	
+<div id="disqus_thread">
+    </div>
+
+		</div>
+	
+		<!-- #content -->
+		
+	</div><!-- #primary -->
+
+
+<div id="secondary">
+	
+		<nav role="navigation" class="navigation site-navigation secondary-navigation">
+		<div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1531"><a href="http://fitgirl-repacks.site/all-my-repacks-a-z/">All My Repacks, A-Z</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1532"><a href="http://fitgirl-repacks.site/faq/">FAQ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1533"><a href="http://fitgirl-repacks.site/donations/">Donate</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8964"><a href="http://fitgirl-repacks.site/donate-by-mining/">Donate by Mining</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1534"><a href="http://fitgirl-repacks.site/contacts/">Contacts</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1707"><a href="http://fitgirl-repacks.site/repacks-troubleshooting/">Repacks Troubleshooting</a></li>
+</ul></div>	</nav>
+	
+		<div id="primary-sidebar" class="primary-sidebar widget-area" role="complementary">
+		<aside id="custom_html-5" class="widget_text widget widget_custom_html"><h1 class="widget-title">Support the Cause</h1><div class="textwidget custom-html-widget"><style>
+table#lbcss {font-size:14px}
+table#lbcss td {padding:3px}
+#lbjoin,#lbjoin2 {background-color: #24890d !important;color:white !important;display:block !important;text-align:center !important;padding:5px !important;}
+</style>
+
+<a href="http://fitgirl-repacks.site/donate-by-mining/" id="lbjoin">Donate by Mining</a>
+<center>or</center>
+<a href="http://fitgirl-repacks.site/donations/" id="lbjoin2">Donate BTC</a>
+</div></aside><aside id="custom_html-2" class="widget_text widget widget_custom_html"><h1 class="widget-title">My RSS Feed</h1><div class="textwidget custom-html-widget">Subscribe to <a href=http://fitgirl-repacks.site/feed/>this RSS feed</a> and get latest updates automatically. </div></aside><aside id="blog_subscription-2" class="widget jetpack_subscription_widget"><h1 class="widget-title">Subscribe to my releases via Email</h1>
+			<form action="#" method="post" accept-charset="utf-8" id="subscribe-blog-blog_subscription-2">
+				<div id="subscribe-text"><p>Enter your email address to subscribe to this blog and receive notifications of new posts by email.</p>
+</div><p>Join 22,949 other subscribers</p>
+					<p id="subscribe-email">
+						<label id="jetpack-subscribe-label" for="subscribe-field-blog_subscription-2">
+							Email Address						</label>
+						<input type="email" name="email" required="required" class="required" value="" id="subscribe-field-blog_subscription-2" placeholder="Email Address" />
+					</p>
+
+					<p id="subscribe-submit">
+						<input type="hidden" name="action" value="subscribe" />
+						<input type="hidden" name="source" value="http://fitgirl-repacks.site/wolfenstein-youngblood/" />
+						<input type="hidden" name="sub-type" value="widget" />
+						<input type="hidden" name="redirect_fragment" value="blog_subscription-2" />
+												<input type="submit" value="Subscribe" name="jetpack_subscriptions_widget" />
+					</p>
+							</form>
+
+			<script>
+			/*
+			Custom functionality for safari and IE
+			 */
+			(function( d ) {
+				// In case the placeholder functionality is available we remove labels
+				if ( ( 'placeholder' in d.createElement( 'input' ) ) ) {
+					var label = d.querySelector( 'label[for=subscribe-field-blog_subscription-2]' );
+						label.style.clip 	 = 'rect(1px, 1px, 1px, 1px)';
+						label.style.position = 'absolute';
+						label.style.height   = '1px';
+						label.style.width    = '1px';
+						label.style.overflow = 'hidden';
+				}
+
+				// Make sure the email value is filled in before allowing submit
+				var form = d.getElementById('subscribe-blog-blog_subscription-2'),
+					input = d.getElementById('subscribe-field-blog_subscription-2'),
+					handler = function( event ) {
+						if ( '' === input.value ) {
+							input.focus();
+
+							if ( event.preventDefault ){
+								event.preventDefault();
+							}
+
+							return false;
+						}
+					};
+
+				if ( window.addEventListener ) {
+					form.addEventListener( 'submit', handler, false );
+				} else {
+					form.attachEvent( 'onsubmit', handler );
+				}
+			})( document );
+			</script>
+				
+</aside><aside id="archives-2" class="widget widget_archive"><h1 class="widget-title">Monthly Archives</h1>		<ul>
+			<li><a href='http://fitgirl-repacks.site/2019/08/'>August 2019</a>&nbsp;(24)</li>
+	<li><a href='http://fitgirl-repacks.site/2019/07/'>July 2019</a>&nbsp;(31)</li>
+	<li><a href='http://fitgirl-repacks.site/2019/06/'>June 2019</a>&nbsp;(31)</li>
+	<li><a href='http://fitgirl-repacks.site/2019/05/'>May 2019</a>&nbsp;(31)</li>
+	<li><a href='http://fitgirl-repacks.site/2019/04/'>April 2019</a>&nbsp;(19)</li>
+	<li><a href='http://fitgirl-repacks.site/2019/03/'>March 2019</a>&nbsp;(34)</li>
+	<li><a href='http://fitgirl-repacks.site/2019/02/'>February 2019</a>&nbsp;(19)</li>
+	<li><a href='http://fitgirl-repacks.site/2019/01/'>January 2019</a>&nbsp;(22)</li>
+	<li><a href='http://fitgirl-repacks.site/2018/12/'>December 2018</a>&nbsp;(20)</li>
+	<li><a href='http://fitgirl-repacks.site/2018/11/'>November 2018</a>&nbsp;(24)</li>
+	<li><a href='http://fitgirl-repacks.site/2018/10/'>October 2018</a>&nbsp;(28)</li>
+	<li><a href='http://fitgirl-repacks.site/2018/09/'>September 2018</a>&nbsp;(27)</li>
+	<li><a href='http://fitgirl-repacks.site/2018/08/'>August 2018</a>&nbsp;(26)</li>
+	<li><a href='http://fitgirl-repacks.site/2018/07/'>July 2018</a>&nbsp;(27)</li>
+	<li><a href='http://fitgirl-repacks.site/2018/06/'>June 2018</a>&nbsp;(32)</li>
+	<li><a href='http://fitgirl-repacks.site/2018/05/'>May 2018</a>&nbsp;(18)</li>
+	<li><a href='http://fitgirl-repacks.site/2018/04/'>April 2018</a>&nbsp;(12)</li>
+	<li><a href='http://fitgirl-repacks.site/2018/03/'>March 2018</a>&nbsp;(20)</li>
+	<li><a href='http://fitgirl-repacks.site/2018/02/'>February 2018</a>&nbsp;(25)</li>
+	<li><a href='http://fitgirl-repacks.site/2018/01/'>January 2018</a>&nbsp;(11)</li>
+	<li><a href='http://fitgirl-repacks.site/2017/12/'>December 2017</a>&nbsp;(18)</li>
+	<li><a href='http://fitgirl-repacks.site/2017/11/'>November 2017</a>&nbsp;(22)</li>
+	<li><a href='http://fitgirl-repacks.site/2017/10/'>October 2017</a>&nbsp;(24)</li>
+	<li><a href='http://fitgirl-repacks.site/2017/09/'>September 2017</a>&nbsp;(25)</li>
+	<li><a href='http://fitgirl-repacks.site/2017/08/'>August 2017</a>&nbsp;(25)</li>
+	<li><a href='http://fitgirl-repacks.site/2017/07/'>July 2017</a>&nbsp;(22)</li>
+	<li><a href='http://fitgirl-repacks.site/2017/06/'>June 2017</a>&nbsp;(32)</li>
+	<li><a href='http://fitgirl-repacks.site/2017/05/'>May 2017</a>&nbsp;(40)</li>
+	<li><a href='http://fitgirl-repacks.site/2017/04/'>April 2017</a>&nbsp;(22)</li>
+	<li><a href='http://fitgirl-repacks.site/2017/03/'>March 2017</a>&nbsp;(21)</li>
+	<li><a href='http://fitgirl-repacks.site/2017/02/'>February 2017</a>&nbsp;(19)</li>
+	<li><a href='http://fitgirl-repacks.site/2017/01/'>January 2017</a>&nbsp;(10)</li>
+	<li><a href='http://fitgirl-repacks.site/2016/12/'>December 2016</a>&nbsp;(21)</li>
+	<li><a href='http://fitgirl-repacks.site/2016/11/'>November 2016</a>&nbsp;(20)</li>
+	<li><a href='http://fitgirl-repacks.site/2016/10/'>October 2016</a>&nbsp;(26)</li>
+	<li><a href='http://fitgirl-repacks.site/2016/09/'>September 2016</a>&nbsp;(45)</li>
+	<li><a href='http://fitgirl-repacks.site/2016/08/'>August 2016</a>&nbsp;(36)</li>
+	<li><a href='http://fitgirl-repacks.site/2016/07/'>July 2016</a>&nbsp;(376)</li>
+		</ul>
+		</aside><aside id="custom_html-4" class="widget_text widget widget_custom_html"><h1 class="widget-title">Press Play for my OST</h1><div class="textwidget custom-html-widget"><p><iframe src="https://www.youtube.com/embed/72QAAOaYW2M" allowfullscreen="" width="90%" frameborder="0"></iframe><br>
+<br>
+or original version for Japanese games<br>
+<br>
+<iframe src="https://www.youtube.com/embed/KJ7H-DfbFZI" allowfullscreen="" width="90%" frameborder="0"></iframe></p>
+</div></aside>	</div><!-- #primary-sidebar -->
+	</div><!-- #secondary -->
+
+		</div><!-- #main -->
+
+		<footer id="colophon" class="site-footer" role="contentinfo">
+
+			
+			<div class="site-info">
+								<a href="https://wordpress.org/">Proudly powered by WordPress</a>
+			</div><!-- .site-info -->
+		</footer><!-- #colophon -->
+	</div><!-- #page -->
+
+	<link rel='stylesheet' id='font-awesome-css'  href='//netdna.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css?ver=4.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='su-box-shortcodes-css'  href='http://fitgirl-repacks.site/wp-content/plugins/shortcodes-ultimate/assets/css/box-shortcodes.css?ver=5.0.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201934'></script>
+<script type='text/javascript' src='http://fitgirl-repacks.site/wp-content/plugins/social-polls-by-opinionstage/js/shortcodes.js?ver=18.1.0'></script>
+<script type='text/javascript' src='http://fitgirl-repacks.site/wp-includes/js/comment-reply.min.js?ver=5.0.2'></script>
+<script type='text/javascript' src='http://fitgirl-repacks.site/wp-content/themes/twentyfourteen/js/functions.js?ver=20150315'></script>
+<script type='text/javascript' src='http://fitgirl-repacks.site/wp-includes/js/wp-embed.min.js?ver=5.0.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var embedVars = {"disqusConfig":{"platform":"wordpress@5.0.2","language":""},"disqusIdentifier":"10419 http:\/\/fitgirl-repacks.site\/?p=10419","disqusShortname":"fitgirl-repacks-site","disqusTitle":"Wolfenstein: Youngblood \u2013 Deluxe Edition \u2013 v1.0.3 + 3 DLCs","disqusUrl":"http:\/\/fitgirl-repacks.site\/wolfenstein-youngblood\/","options":{"manualSync":"1"},"postId":"10419"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://fitgirl-repacks.site/wp-content/plugins/disqus-comment-system/media/js/disqus.js?ver=5.0.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"fitgirl-repacks-site"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://fitgirl-repacks.site/wp-content/plugins/disqus-comment-system/media/js/count.js?ver=5.0.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var su_other_shortcodes = {"no_preview":"This shortcode doesn't work in live preview. Please insert it into editor and preview on the site."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://fitgirl-repacks.site/wp-content/plugins/shortcodes-ultimate/assets/js/other-shortcodes.js?ver=5.0.1'></script>
+<script type='text/javascript' src='https://stats.wp.com/e-201934.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:5.5.1',blog:'114849652',post:'10419',tz:'0',srv:'fitgirl-repacks.site'} ]);
+	_stq.push([ 'clickTrackerInit', '114849652', '10419' ]);
+</script>
+</body>
+</html>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 42/48 objects using disk
+Page Caching using disk: enhanced 
+Minified using disk
+Database Caching 2/8 queries in 0.023 seconds using disk
+
+Served from: fitgirl-repacks.site @ 2019-08-20 05:01:00 by W3 Total Cache
+-->

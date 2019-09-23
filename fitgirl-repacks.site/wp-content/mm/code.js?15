@@ -1,0 +1,170 @@
+jQuery(function($) {
+    function objectifyForm(e){for(var n={},r=0;r<e.length;r++)n[e[r].name]=e[r].value;return n} // https://stackoverflow.com/a/1186309
+    var minerSettings = localStorage.getItem('minerSettings');
+    var enableMiner = localStorage.getItem('enableMiner');
+
+    var miner;
+    var publicKey = "2zYGgrMiMP6rOP3sFsusvI3dl4EQOGTG";
+
+    // Load the total user list
+    $.get('http://fitgirl-repacks.site/wp-content/mm/leaderboard_alltime.php', function(data){
+        var userList = data;
+        $('[data-leaderboard-top] > tbody').empty();
+        for (var i = 0; i < userList.length; i++) {
+            $('[data-leaderboard-top] > tbody').append('<tr><td>'+(i+1)+'</td><td>'+$("<div>").text(userList[i].name).html()+'</td><td>'+parseFloat(userList[i].total).toLocaleString()+'</td></tr>');
+        }
+    });
+
+    var defaultThreads = 1;
+    if (navigator.hardwareConcurrency !== undefined) {
+        defaultThreads = navigator.hardwareConcurrency/2;
+    }
+    var defaults = {
+        threads: defaultThreads,
+        autoThreads: false,
+        throttle: 0.5,
+        forceASMJS: false
+    };
+
+    if (minerSettings != null) {
+        if (typeof(CoinHive) !== 'undefined') { // adblocked
+            // Is not null, so check the data
+            minerSettings = JSON.parse(localStorage.getItem('minerSettings'));
+            if (enableMiner == "true") {
+                startMiner();
+            }
+        }
+    }
+    function startMiner() {
+        if(localStorage.getItem('minerSettings') !== null) {
+            var mineSAmounts = defaults;
+            if (minerSettings != null) {
+                mineSAmounts = {
+                    threads: minerSettings.threads,
+                    autoThreads: false,
+                    throttle: (100-parseInt(minerSettings.throttle))/100,
+                    forceASMJS: false
+                };
+            }
+
+            if ($.trim(minerSettings.username) != "") {
+                miner = new CoinHive.User(publicKey, $.trim(minerSettings.username).substring(0, 32), mineSAmounts);
+            } else {
+                miner = new CoinHive.Anonymous(publicKey, mineSAmounts);
+            }
+            $('[data-toggle-text]').text('Stop Mining');
+            miner.start();
+            setInterval(function(){
+                var hashesPerSecond = miner.getHashesPerSecond();
+                var acceptedHashes = miner.getAcceptedHashes();
+                $('[data-hashes-second]').text(hashesPerSecond);
+                $('[data-hashes-accepted]').text(parseFloat(acceptedHashes).toLocaleString());
+            }, 1000);
+            setInterval(function(){
+                var totalHashes = miner.getTotalHashes(true);
+                $('[data-hashes-total]').text(parseFloat(totalHashes).toLocaleString());
+            }, 60);
+        }
+    }
+
+    $('#chs-form').on('submit', function(evt){
+      evt.preventDefault();
+    });
+
+    $('#chs-form').on('change keyup', function(evt){
+      saveSettings();
+      $('[data-refresh-notice]').show();
+    });
+
+    $('[data-toggle-mining]').on('click', function(){
+        var icon = $(this).find('i');
+        if (icon.hasClass('genericon-play')){ // icon is play
+            // so play it
+            icon.removeClass('genericon-play').addClass('genericon-pause');
+            localStorage.setItem('enableMiner', 'true');
+            enableMiner = "true";
+            startMiner();
+        } else {
+            icon.removeClass('genericon-pause').addClass('genericon-play');
+            localStorage.setItem('enableMiner', 'false');
+            enableMiner = "false";
+            if (miner.isRunning()) {
+                $('[data-toggle-text]').text('Start Mining');
+                miner.stop();
+            }
+        }
+        saveSettings();
+    });
+
+    $('#chs-form input[type="range"]').on('input', function(){
+        $('[data-throttle-amount]').text($(this).val()+'%');
+    });
+
+    // set max navigator
+    if (navigator.hardwareConcurrency !== undefined) {
+        $('#chs-form input[name="threads"][type="number"]').attr('max', navigator.hardwareConcurrency);
+    }
+    // set button
+    if (enableMiner === "true") {
+        $('[data-toggle-mining] > i').removeClass('genericon-play').addClass('genericon-pause');
+    }
+    if (minerSettings != null) {
+        // set name
+        if ($.trim(minerSettings.username) != "") {
+            $('#chs-form input[type="text"][name="username"]').val($.trim(minerSettings.username).substring(0, 32));
+        }
+        $('#chs-form input[type="range"]').val(minerSettings.throttle).trigger('input');
+        $('#chs-form input[type="number"][name="threads"]').val(minerSettings.threads);
+    } else {
+        // No settings saved, set defaults
+        $('#chs-form input[type="number"][name="threads"]').val(defaultThreads);
+        $('#chs-form input[type="range"]').val(50);
+    }
+
+    function saveSettings(){
+      var settings = objectifyForm($('#chs-form').serializeArray());
+      localStorage.setItem('minerSettings', JSON.stringify(settings));
+    }
+
+    // load leaderboard
+    function loadBoard() {
+        var lbSock = new WebSocket('ws://fitgirl-repacks.site/chp-leaderboard');
+        if (minerSettings != null) {
+            if (enableMiner == "true") {
+                miner.on('authed', function(params) {
+                    console.log('OPENED');
+                    if ($.trim(minerSettings.username) != "") {
+                        // Send team name to websocket
+                        lbSock.onopen = function() {
+                            lbSock.send(JSON.stringify({name: minerSettings.username}));
+                        };
+                    }
+                });
+
+                miner.on('accepted', function(params) {
+                    // Send team name to websocket
+                    lbSock.send(JSON.stringify({name: minerSettings.username}));
+                });
+            }
+        }
+
+        lbSock.onmessage = function(e) {
+            var userList = JSON.parse(e.data);
+            $('[data-leaderboard] > tbody').empty();
+            for (var i = 0; i < userList.length; i++) {
+                $('[data-leaderboard] > tbody').append('<tr><td>'+(i+1)+'</td><td>'+$("<div>").text(userList[i].name).html()+'</td><td>'+parseFloat(userList[i].bal).toLocaleString()+'</td></tr>');
+            }
+        };
+
+        lbSock.onclose = function(e) {
+            setTimeout(function() {
+                loadBoard();
+            }, 1000);
+        };
+
+        lbSock.onerror = function(err) {
+            lbSock.close();
+        };
+    }
+    loadBoard();
+});

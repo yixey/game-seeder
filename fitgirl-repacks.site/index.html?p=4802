@@ -1,0 +1,446 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) & !(IE 8)]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<title>Car Mechanic Simulator 2018 &#8211; v1.5.15 Hotfix 1 + 9 DLCs | FitGirl Repacks</title>
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://fitgirl-repacks.site/xmlrpc.php">
+	<!--[if lt IE 9]>
+	<script src="http://fitgirl-repacks.site/wp-content/themes/twentyfourteen/js/html5.js"></script>
+	<![endif]-->
+	<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="FitGirl Repacks &raquo; Feed" href="http://fitgirl-repacks.site/feed/" />
+<link rel="alternate" type="application/rss+xml" title="FitGirl Repacks &raquo; Comments Feed" href="http://fitgirl-repacks.site/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="FitGirl Repacks &raquo; Car Mechanic Simulator 2018 &#8211; v1.5.15 Hotfix 1 + 9 DLCs Comments Feed" href="http://fitgirl-repacks.site/car-mechanic-simulator-2018/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/fitgirl-repacks.site\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.0.2"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='twentyfourteen-jetpack-css'  href='http://fitgirl-repacks.site/wp-content/plugins/jetpack/modules/theme-tools/compat/twentyfourteen.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='http://fitgirl-repacks.site/wp-includes/css/dist/block-library/style.min.css?ver=5.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='twentyfourteen-lato-css'  href='https://fonts.googleapis.com/css?family=Lato%3A300%2C400%2C700%2C900%2C300italic%2C400italic%2C700italic&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='http://fitgirl-repacks.site/wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css?ver=3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='twentyfourteen-style-css'  href='http://fitgirl-repacks.site/wp-content/themes/twentyfourteen/style.css?ver=5.0.2' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentyfourteen-ie-css'  href='http://fitgirl-repacks.site/wp-content/themes/twentyfourteen/css/ie.css?ver=20131205' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='jetpack_css-css'  href='http://fitgirl-repacks.site/wp-content/plugins/jetpack/css/jetpack.css?ver=5.5.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://fitgirl-repacks.site/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://fitgirl-repacks.site/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://fitgirl-repacks.site/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://fitgirl-repacks.site/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://fitgirl-repacks.site/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Mafia 3: Digital Deluxe Edition &#8211; v1.09 GOG + 6 DLCs' href='http://fitgirl-repacks.site/mafia-3-digital-deluxe-edition/' />
+<link rel='next' title='Extinction' href='http://fitgirl-repacks.site/extinction/' />
+<meta name="generator" content="WordPress 5.0.2" />
+<link rel="canonical" href="http://fitgirl-repacks.site/car-mechanic-simulator-2018/" />
+<link rel='shortlink' href='http://fitgirl-repacks.site/?p=4802' />
+<link rel="alternate" type="application/json+oembed" href="http://fitgirl-repacks.site/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ffitgirl-repacks.site%2Fcar-mechanic-simulator-2018%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://fitgirl-repacks.site/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ffitgirl-repacks.site%2Fcar-mechanic-simulator-2018%2F&#038;format=xml" />
+<style type='text/css'>img#wpstats{display:none}</style>	<style type="text/css" id="twentyfourteen-header-css">
+			.site-title a {
+			color: #f887ff;
+		}
+		</style>
+	<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #0a0a0a; }
+</style>
+<link rel="icon" href="http://fitgirl-repacks.site/wp-content/uploads/2016/08/cropped-icon-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="http://fitgirl-repacks.site/wp-content/uploads/2016/08/cropped-icon-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://fitgirl-repacks.site/wp-content/uploads/2016/08/cropped-icon-180x180.jpg" />
+<meta name="msapplication-TileImage" content="http://fitgirl-repacks.site/wp-content/uploads/2016/08/cropped-icon-270x270.jpg" />
+<meta name="yandex-verification" content="e9e371f57f200b9b" />
+<style>
+#disqus_thread {
+    width: 80% !important;
+    margin: 0 auto !important;
+}
+</style>
+
+</head>
+
+<body class="post-template-default single single-post postid-4802 single-format-standard custom-background masthead-fixed full-width singular">
+<div id="page" class="hfeed site">
+	
+	<header id="masthead" class="site-header" role="banner">
+		<div class="header-main">
+			<h1 class="site-title"><a href="http://fitgirl-repacks.site/" rel="home">FitGirl Repacks</a></h1>
+
+			<div class="search-toggle">
+				<a href="#search-container" class="screen-reader-text" aria-expanded="false" aria-controls="search-container">Search</a>
+			</div>
+
+			<nav id="primary-navigation" class="site-navigation primary-navigation" role="navigation">
+				<button class="menu-toggle">Primary Menu</button>
+				<a class="screen-reader-text skip-link" href="#content">Skip to content</a>
+				<div class="menu-main-menu-container"><ul id="primary-menu" class="nav-menu"><li id="menu-item-1531" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1531"><a href="http://fitgirl-repacks.site/all-my-repacks-a-z/">All My Repacks, A-Z</a></li>
+<li id="menu-item-1532" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1532"><a href="http://fitgirl-repacks.site/faq/">FAQ</a></li>
+<li id="menu-item-1533" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1533"><a href="http://fitgirl-repacks.site/donations/">Donate</a>
+<ul class="sub-menu">
+	<li id="menu-item-8964" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8964"><a href="http://fitgirl-repacks.site/donate-by-mining/">Donate by Mining</a></li>
+</ul>
+</li>
+<li id="menu-item-1534" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1534"><a href="http://fitgirl-repacks.site/contacts/">Contacts</a></li>
+<li id="menu-item-1707" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1707"><a href="http://fitgirl-repacks.site/repacks-troubleshooting/">Repacks Troubleshooting</a></li>
+</ul></div>			</nav>
+		</div>
+
+		<div id="search-container" class="search-box-wrapper hide">
+			<div class="search-box">
+				<form role="search" method="get" class="search-form" action="http://fitgirl-repacks.site/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form>			</div>
+		</div>
+	</header><!-- #masthead -->
+
+	<div id="main" class="site-main">
+
+	<div id="primary" class="content-area">
+		<div id="content" class="site-content" role="main">
+			
+<article id="post-4802" class="post-4802 post type-post status-publish format-standard hentry category-lossless-repack">
+	
+	<header class="entry-header">
+				<div class="entry-meta">
+			<span class="cat-links" id="potato"><a href="http://fitgirl-repacks.site/category/lossless-repack/" rel="category tag">Lossless Repack</a></span>
+		</div>
+		<h1 class="entry-title">Car Mechanic Simulator 2018 &#8211; v1.5.15 Hotfix 1 + 9 DLCs</h1>
+		<div class="entry-meta">
+			<span class="entry-date"><a href="http://fitgirl-repacks.site/car-mechanic-simulator-2018/" rel="bookmark"><time class="entry-date" datetime="2018-04-08T16:00:12+00:00">April 8, 2018</time></a></span> <span class="byline"><span class="author vcard"><a class="url fn n" href="http://fitgirl-repacks.site/author/admin-fitgirl/" rel="author">FitGirl</a></span></span>			<span class="comments-link"><a href="http://fitgirl-repacks.site/car-mechanic-simulator-2018/#comments"><span class="dsq-postid" data-dsqidentifier="4802 http://fitgirl-repacks.site/?p=4802">97 Comments</span></a></span>
+					</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<h3><span style="color: #339966;">#728 Updated</span> <strong>Car Mechanic Simulator 2018 <span style="color: #808080;">v1.5.15 Hotfix 1 + 9 DLCs</span></strong></h3>
+<p style="height: 200px; display: block;"><a target="_blank" href="http://en.riotpixels.com/games/car-mechanic-simulator-2018/"><img class="alignleft" width="150" src="http://i94.fastpic.ru/big/2017/0730/90/06fe662657a3502d73fda1752fb5a790.jpg" /></a><br />
+Genres/Tags: <strong>Simulation, 3D, Cars</strong><br />
+Companies: <strong>Red Dot Games / PlayWay</strong><br />
+Languages: <strong>RUS/ENG/MULTI16</strong><br />
+Original Size: <strong>10.6 GB</strong><br />
+Repack Size: <strong>from 6.2 GB</strong> [Selective Download]
+<p></p>
+<h3>Download Mirrors</h3>
+<ul>
+<li><a href="https://1337x.to/torrent/2912899/Car-Mechanic-Simulator-2018-v1-5-15hf1-9-DLCs-MULTi16-FitGirl-Repack-Selective-Download-from-6-2-GB/" target="_blank">1337x</a> [<a href="magnet:?xt=urn:btih:F965B13C32B00B2308902176FC707BF856AD2FE2">magnet</a>] [<a href="http://sendfile.su/1411933" target="_blank">.torrent file only</a>]</li>
+<li><a href="http://rutor.info/torrent/624916/car-mechanic-simulator-2018-v-1.5.15.hf1-9-dlc-2017-pc-repack-ot-fitgirl" target="_blank">RuTor</a> [<a href="magnet:?xt=urn:btih:94978a93598651cdb0e9716a64b4d3d265053652&#038;dn=rutor.info_Car+Mechanic+Simulator+2018+%5Bv+1.5.15.HF1+%2B+9+DLC%5D+%282017%29+PC+%7C+RePack+%D0%BE%D1%82+FitGirl&#038;tr=udp://opentor.org:2710&#038;tr=udp://opentor.org:2710&#038;tr=http://retracker.local/announce">magnet</a>]</li>
+<li><a href="https://free-torrents.org/forum/viewtopic1.php?t=216847" target="_blank">FreeTorrents</a></li>
+<li><a href="https://tapochek.net/viewtopic.php?p=2427016" target="_blank">Tapochek.net</a> [<a href="magnet:?xt=urn:btih:67fe23be5b5244690ba31d3ccfdd68bf4b348c71&#038;dn=Car+Mechanic+Simulator+2018+%5BFitGirl+Repack%5D+TAP&#038;tr=retracker.local/announce">magnet</a>]</li>
+<li><a href="https://paste2.org/bG0fcjdN" target="_blank">Filehoster: MultiUpload</a> (10+ hosters, interchangeable) [Use <a href="http://jdownloader.org/jdownloader2" target="_blank">JDownloader2</a>]</li>
+<li><a href="https://public.upera.co/f/9S1ejckt" target="_blank" rel="noopener">Filehoster: Upera</a> (Uploaded by Nice_2000, NOT compatible with other mirrors)</li>
+</ul>
+<p><a href="https://cs.rin.ru/forum/viewtopic.php?f=10&#038;t=81288" target="_blank">Discussion and (possible) future updates on CS.RIN.RU thread</a></p>
+<h3>Screenshots (Click to enlarge)</h3>
+<p><a target="_blank" href="http://en.riotpixels.com/games/car-mechanic-simulator-2018/screenshots/19/?utm_source=emb-gfx-html&#038;utm_medium=image&#038;utm_campaign=rp-mass"><img width="178" height="100" border="0" src="http://s01.riotpixels.net/data/be/f3/bef339a1-c972-435b-b5f2-dcb61e7b0541.jpg.240p.jpg"></a><a target="_blank" href="http://en.riotpixels.com/games/car-mechanic-simulator-2018/screenshots/17/?utm_source=emb-gfx-html&#038;utm_medium=image&#038;utm_campaign=rp-mass"><img width="178" height="100" border="0" src="http://s01.riotpixels.net/data/c3/7c/c37c1c48-e241-4e15-a991-e49b4c8b5c38.jpg.240p.jpg"></a><a target="_blank" href="http://en.riotpixels.com/games/car-mechanic-simulator-2018/screenshots/16/?utm_source=emb-gfx-html&#038;utm_medium=image&#038;utm_campaign=rp-mass"><img width="178" height="100" border="0" src="http://s01.riotpixels.net/data/a3/de/a3dec277-07a8-4eb3-becf-4d72ffa62d2b.jpg.240p.jpg"></a><br />
+<a target="_blank" href="http://en.riotpixels.com/games/car-mechanic-simulator-2018/screenshots/15/?utm_source=emb-gfx-html&#038;utm_medium=image&#038;utm_campaign=rp-mass"><img width="178" height="100" border="0" src="http://s01.riotpixels.net/data/f6/78/f678cc5f-855d-4ad4-a12b-2949c663dd19.jpg.240p.jpg"></a><a target="_blank" href="http://en.riotpixels.com/games/car-mechanic-simulator-2018/screenshots/13/?utm_source=emb-gfx-html&#038;utm_medium=image&#038;utm_campaign=rp-mass"><img width="178" height="100" border="0" src="http://s01.riotpixels.net/data/46/82/46822f76-2a6b-4659-a749-221383ed1cdb.jpg.240p.jpg"></a><a target="_blank" href="http://en.riotpixels.com/games/car-mechanic-simulator-2018/screenshots/12/?utm_source=emb-gfx-html&#038;utm_medium=image&#038;utm_campaign=rp-mass"><img width="177" height="100" border="0" src="http://s01.riotpixels.net/data/df/74/df74066f-e90c-4dd8-880d-1c16e36b0844.jpg.240p.jpg"></a></p>
+<h3>Repack Features</h3>
+<ul>
+<li>Based on Car.Mechanic.Simulator.2018.Pagani-RELOADED ISO release: rld-car.mechanic.simulator.2018.pagani.iso (11,391,795,200 bytes)
+<li>Patch v1.5.15 Hotfix 1 applied over; crack replaced with ALI213
+<li>Game version: v1.5.15 hf1, 9 DLCs included and activated
+<li>100% Lossless &#038; MD5 Perfect: all files are identical to originals after installation
+<li>NOTHING ripped, NOTHING re-encoded
+<li>Selective Download feature: you may skip downloading and installing of tutorial videos
+<li>Significantly smaller archive size (compressed from 10.6 to 6.2/7.8 GB)
+<li>Installation takes 12-18 minutes (depending on your system)
+<li>After-install integrity check so you could make sure that everything installed properly
+<li>HDD space after installation: up to 17 GB
+<li>Language can be changed in game settings
+<li>At least 2 GB of free RAM (inc. virtual) required for installing this repack
+<li>Repack uses pUnity library by Razor12911
+</ul>
+<div class="su-spoiler su-spoiler-style-fancy su-spoiler-icon-plus su-spoiler-closed"><div class="su-spoiler-title"><span class="su-spoiler-icon"></span>Game Description</div><div class="su-spoiler-content su-clearfix" style="display:none">
+Car Mechanic Simulator 2018 challenges players to repair, paint, tune and drive cars.</p>
+<p>Find classic, unique cars in the new Barn Find module and Junkyard module. You can even add your self-made car in the Car Editor.</p>
+<p>Build and expand your repair service empire in this incredibly detailed and highly realistic simulation game, where attention to car detail is astonishing.</p>
+<p>All this with new, photorealistic graphics. Featuring more cars (40+), more tools (10+), more options and more parts (1000+) than ever before. It’s time to roll up your sleeves and get to work!</p>
+<p>Car Mechanic Simulator 2018 also includes car auctions where old cars are available for resale or purchased for your collection. With the inclusion of photo-mode, you can take stunning before and after photos, and the game’s infinite number of randomly generated missions will keep you more than busy (and dirty).</p>
+<p>Each mission offers its own unique challenge of varying difficulty and time constraints to meet. If additional and extra tools are needed, they available for purchase. You can eventually upgrade your garage to include specific equipment such as lacquer sprayer or a parts warehouse.</p>
+<p><b>Included DLCs:</b></p>
+<ul>
+<li>Car Mechanic Simulator 2018 &#8211; Mazda DLC
+<li>Car Mechanic Simulator 2018 &#8211; Dodge DLC
+<li>Car Mechanic Simulator 2018 &#8211; Tuning DLC
+<li>Car Mechanic Simulator 2018 &#8211; Jeep DLC
+<li>Car Mechanic Simulator 2018 &#8211; Lotus DLC
+<li>Car Mechanic Simulator 2018 &#8211; Bentley Remastered DLC
+<li>Car Mechanic Simulator 2018 &#8211; Garage Customization DLC
+<li>Car Mechanic Simulator 2018 &#8211; Plymouth DLC
+<li>Car Mechanic Simulator 2018 &#8211; Pagani DLC
+</ul>
+</div></div>
+<p><b>Backwards Compatibility</b></p>
+<p>This repack IS NOT backwards compatible with my previous CMS2018 repacks.</p>
+             		
+	</div><!-- .entry-content -->
+	
+	</article>
+
+<style>
+#potatoid {
+background-color: #dfeedf;
+border: 1px solid #aad0aa;
+border-radius: 3px;
+padding: 10px;
+width: 75%;
+margin: 0 auto;
+}
+.donatebutton {
+background-color: #24890d !important;
+color: white !important;
+display: block !important;
+text-align: center !important;
+padding: 5px !important;
+text-decoration: none !important;
+margin: 0 3px;
+}
+.donatebutton:hover {
+background-color: #1d710a !important;
+}
+
+</style>
+
+<div id="potatoid">
+<table width="100%" style="border: 0; margin-bottom: 5px"><tr>
+<td width="74" style="border: 0"><img src="http://fitgirl-repacks.site/wp-content/uploads/2016/08/cropped-icon-192x192.jpg" width="64" height="64"></td>
+<td style="border: 0; vertical-align: middle;font-size:10pt">If you like what I do, please consider donating to help me maintain this site and seedboxes for my repacks. You may also donate not crypto, but your CPU/GPU power.</td>
+<td width="20%" style="border: 0; vertical-align: middle;"><a href="http://fitgirl-repacks.site/donate-by-mining/" class="donatebutton">Donate by Mining</a></td>
+<td width="20%" style="border: 0; vertical-align: middle;"><a href="http://fitgirl-repacks.site/donations/" class="donatebutton">Donate BTC</a></td>
+
+</tr>
+</table>
+
+
+</div>
+
+<!--
+<div id="potatoid" style="background-color:red; width: 100%; height: 10px;">Comments</div>
+-->
+
+
+<!-- #post-## -->
+	<nav class="navigation post-navigation" role="navigation">
+		<h1 class="screen-reader-text">Post navigation</h1>
+		<div class="nav-links">
+			<a href="http://fitgirl-repacks.site/mafia-3-digital-deluxe-edition/" rel="prev"><span class="meta-nav">Previous Post</span>Mafia 3: Digital Deluxe Edition &#8211; v1.09 GOG + 6 DLCs</a><a href="http://fitgirl-repacks.site/extinction/" rel="next"><span class="meta-nav">Next Post</span>Extinction</a>		</div><!-- .nav-links -->
+	</nav><!-- .navigation -->
+	
+<div id="disqus_thread">
+    </div>
+
+		</div>
+	
+		<!-- #content -->
+		
+	</div><!-- #primary -->
+
+
+<div id="secondary">
+	
+		<nav role="navigation" class="navigation site-navigation secondary-navigation">
+		<div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1531"><a href="http://fitgirl-repacks.site/all-my-repacks-a-z/">All My Repacks, A-Z</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1532"><a href="http://fitgirl-repacks.site/faq/">FAQ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1533"><a href="http://fitgirl-repacks.site/donations/">Donate</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8964"><a href="http://fitgirl-repacks.site/donate-by-mining/">Donate by Mining</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1534"><a href="http://fitgirl-repacks.site/contacts/">Contacts</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1707"><a href="http://fitgirl-repacks.site/repacks-troubleshooting/">Repacks Troubleshooting</a></li>
+</ul></div>	</nav>
+	
+		<div id="primary-sidebar" class="primary-sidebar widget-area" role="complementary">
+		<aside id="custom_html-5" class="widget_text widget widget_custom_html"><h1 class="widget-title">Support the Cause</h1><div class="textwidget custom-html-widget"><style>
+table#lbcss {font-size:14px}
+table#lbcss td {padding:3px}
+#lbjoin,#lbjoin2 {background-color: #24890d !important;color:white !important;display:block !important;text-align:center !important;padding:5px !important;}
+</style>
+
+<a href="http://fitgirl-repacks.site/donate-by-mining/" id="lbjoin">Donate by Mining</a>
+<center>or</center>
+<a href="http://fitgirl-repacks.site/donations/" id="lbjoin2">Donate BTC</a>
+</div></aside><aside id="custom_html-2" class="widget_text widget widget_custom_html"><h1 class="widget-title">My RSS Feed</h1><div class="textwidget custom-html-widget">Subscribe to <a href=http://fitgirl-repacks.site/feed/>this RSS feed</a> and get latest updates automatically. </div></aside><aside id="blog_subscription-2" class="widget jetpack_subscription_widget"><h1 class="widget-title">Subscribe to my releases via Email</h1>
+			<form action="#" method="post" accept-charset="utf-8" id="subscribe-blog-blog_subscription-2">
+				<div id="subscribe-text"><p>Enter your email address to subscribe to this blog and receive notifications of new posts by email.</p>
+</div><p>Join 22,225 other subscribers</p>
+					<p id="subscribe-email">
+						<label id="jetpack-subscribe-label" for="subscribe-field-blog_subscription-2">
+							Email Address						</label>
+						<input type="email" name="email" required="required" class="required" value="" id="subscribe-field-blog_subscription-2" placeholder="Email Address" />
+					</p>
+
+					<p id="subscribe-submit">
+						<input type="hidden" name="action" value="subscribe" />
+						<input type="hidden" name="source" value="http://fitgirl-repacks.site/car-mechanic-simulator-2018/" />
+						<input type="hidden" name="sub-type" value="widget" />
+						<input type="hidden" name="redirect_fragment" value="blog_subscription-2" />
+												<input type="submit" value="Subscribe" name="jetpack_subscriptions_widget" />
+					</p>
+							</form>
+
+			<script>
+			/*
+			Custom functionality for safari and IE
+			 */
+			(function( d ) {
+				// In case the placeholder functionality is available we remove labels
+				if ( ( 'placeholder' in d.createElement( 'input' ) ) ) {
+					var label = d.querySelector( 'label[for=subscribe-field-blog_subscription-2]' );
+						label.style.clip 	 = 'rect(1px, 1px, 1px, 1px)';
+						label.style.position = 'absolute';
+						label.style.height   = '1px';
+						label.style.width    = '1px';
+						label.style.overflow = 'hidden';
+				}
+
+				// Make sure the email value is filled in before allowing submit
+				var form = d.getElementById('subscribe-blog-blog_subscription-2'),
+					input = d.getElementById('subscribe-field-blog_subscription-2'),
+					handler = function( event ) {
+						if ( '' === input.value ) {
+							input.focus();
+
+							if ( event.preventDefault ){
+								event.preventDefault();
+							}
+
+							return false;
+						}
+					};
+
+				if ( window.addEventListener ) {
+					form.addEventListener( 'submit', handler, false );
+				} else {
+					form.attachEvent( 'onsubmit', handler );
+				}
+			})( document );
+			</script>
+				
+</aside><aside id="archives-2" class="widget widget_archive"><h1 class="widget-title">Monthly Archives</h1>		<ul>
+			<li><a href='http://fitgirl-repacks.site/2019/06/'>June 2019</a>&nbsp;(9)</li>
+	<li><a href='http://fitgirl-repacks.site/2019/05/'>May 2019</a>&nbsp;(32)</li>
+	<li><a href='http://fitgirl-repacks.site/2019/04/'>April 2019</a>&nbsp;(21)</li>
+	<li><a href='http://fitgirl-repacks.site/2019/03/'>March 2019</a>&nbsp;(38)</li>
+	<li><a href='http://fitgirl-repacks.site/2019/02/'>February 2019</a>&nbsp;(21)</li>
+	<li><a href='http://fitgirl-repacks.site/2019/01/'>January 2019</a>&nbsp;(22)</li>
+	<li><a href='http://fitgirl-repacks.site/2018/12/'>December 2018</a>&nbsp;(20)</li>
+	<li><a href='http://fitgirl-repacks.site/2018/11/'>November 2018</a>&nbsp;(26)</li>
+	<li><a href='http://fitgirl-repacks.site/2018/10/'>October 2018</a>&nbsp;(30)</li>
+	<li><a href='http://fitgirl-repacks.site/2018/09/'>September 2018</a>&nbsp;(28)</li>
+	<li><a href='http://fitgirl-repacks.site/2018/08/'>August 2018</a>&nbsp;(27)</li>
+	<li><a href='http://fitgirl-repacks.site/2018/07/'>July 2018</a>&nbsp;(28)</li>
+	<li><a href='http://fitgirl-repacks.site/2018/06/'>June 2018</a>&nbsp;(32)</li>
+	<li><a href='http://fitgirl-repacks.site/2018/05/'>May 2018</a>&nbsp;(18)</li>
+	<li><a href='http://fitgirl-repacks.site/2018/04/'>April 2018</a>&nbsp;(13)</li>
+	<li><a href='http://fitgirl-repacks.site/2018/03/'>March 2018</a>&nbsp;(21)</li>
+	<li><a href='http://fitgirl-repacks.site/2018/02/'>February 2018</a>&nbsp;(25)</li>
+	<li><a href='http://fitgirl-repacks.site/2018/01/'>January 2018</a>&nbsp;(11)</li>
+	<li><a href='http://fitgirl-repacks.site/2017/12/'>December 2017</a>&nbsp;(19)</li>
+	<li><a href='http://fitgirl-repacks.site/2017/11/'>November 2017</a>&nbsp;(23)</li>
+	<li><a href='http://fitgirl-repacks.site/2017/10/'>October 2017</a>&nbsp;(26)</li>
+	<li><a href='http://fitgirl-repacks.site/2017/09/'>September 2017</a>&nbsp;(25)</li>
+	<li><a href='http://fitgirl-repacks.site/2017/08/'>August 2017</a>&nbsp;(26)</li>
+	<li><a href='http://fitgirl-repacks.site/2017/07/'>July 2017</a>&nbsp;(22)</li>
+	<li><a href='http://fitgirl-repacks.site/2017/06/'>June 2017</a>&nbsp;(32)</li>
+	<li><a href='http://fitgirl-repacks.site/2017/05/'>May 2017</a>&nbsp;(40)</li>
+	<li><a href='http://fitgirl-repacks.site/2017/04/'>April 2017</a>&nbsp;(22)</li>
+	<li><a href='http://fitgirl-repacks.site/2017/03/'>March 2017</a>&nbsp;(22)</li>
+	<li><a href='http://fitgirl-repacks.site/2017/02/'>February 2017</a>&nbsp;(19)</li>
+	<li><a href='http://fitgirl-repacks.site/2017/01/'>January 2017</a>&nbsp;(10)</li>
+	<li><a href='http://fitgirl-repacks.site/2016/12/'>December 2016</a>&nbsp;(22)</li>
+	<li><a href='http://fitgirl-repacks.site/2016/11/'>November 2016</a>&nbsp;(20)</li>
+	<li><a href='http://fitgirl-repacks.site/2016/10/'>October 2016</a>&nbsp;(26)</li>
+	<li><a href='http://fitgirl-repacks.site/2016/09/'>September 2016</a>&nbsp;(45)</li>
+	<li><a href='http://fitgirl-repacks.site/2016/08/'>August 2016</a>&nbsp;(36)</li>
+	<li><a href='http://fitgirl-repacks.site/2016/07/'>July 2016</a>&nbsp;(377)</li>
+		</ul>
+		</aside><aside id="custom_html-4" class="widget_text widget widget_custom_html"><h1 class="widget-title">Press Play for my OST</h1><div class="textwidget custom-html-widget"><p><iframe src="https://www.youtube.com/embed/72QAAOaYW2M" allowfullscreen="" width="90%" frameborder="0"></iframe><br>
+<br>
+or original version for Japanese games<br>
+<br>
+<iframe src="https://www.youtube.com/embed/KJ7H-DfbFZI" allowfullscreen="" width="90%" frameborder="0"></iframe></p>
+</div></aside>	</div><!-- #primary-sidebar -->
+	</div><!-- #secondary -->
+
+		</div><!-- #main -->
+
+		<footer id="colophon" class="site-footer" role="contentinfo">
+
+			
+			<div class="site-info">
+								<a href="https://wordpress.org/">Proudly powered by WordPress</a>
+			</div><!-- .site-info -->
+		</footer><!-- #colophon -->
+	</div><!-- #page -->
+
+	<link rel='stylesheet' id='font-awesome-css'  href='//netdna.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css?ver=4.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='su-box-shortcodes-css'  href='http://fitgirl-repacks.site/wp-content/plugins/shortcodes-ultimate/assets/css/box-shortcodes.css?ver=5.0.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201923'></script>
+<script type='text/javascript' src='http://fitgirl-repacks.site/wp-content/plugins/social-polls-by-opinionstage/js/shortcodes.js?ver=18.1.0'></script>
+<script type='text/javascript' src='http://fitgirl-repacks.site/wp-includes/js/comment-reply.min.js?ver=5.0.2'></script>
+<script type='text/javascript' src='http://fitgirl-repacks.site/wp-content/themes/twentyfourteen/js/functions.js?ver=20150315'></script>
+<script type='text/javascript' src='http://fitgirl-repacks.site/wp-includes/js/wp-embed.min.js?ver=5.0.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var embedVars = {"disqusConfig":{"platform":"wordpress@5.0.2","language":""},"disqusIdentifier":"4802 http:\/\/fitgirl-repacks.site\/?p=4802","disqusShortname":"fitgirl-repacks-site","disqusTitle":"Car Mechanic Simulator 2018 \u2013 v1.5.15 Hotfix 1 + 9 DLCs","disqusUrl":"http:\/\/fitgirl-repacks.site\/car-mechanic-simulator-2018\/","options":{"manualSync":"1"},"postId":"4802"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://fitgirl-repacks.site/wp-content/plugins/disqus-comment-system/media/js/disqus.js?ver=5.0.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"fitgirl-repacks-site"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://fitgirl-repacks.site/wp-content/plugins/disqus-comment-system/media/js/count.js?ver=5.0.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var su_other_shortcodes = {"no_preview":"This shortcode doesn't work in live preview. Please insert it into editor and preview on the site."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://fitgirl-repacks.site/wp-content/plugins/shortcodes-ultimate/assets/js/other-shortcodes.js?ver=5.0.1'></script>
+<script type='text/javascript' src='https://stats.wp.com/e-201923.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:5.5.1',blog:'114849652',post:'4802',tz:'0',srv:'fitgirl-repacks.site'} ]);
+	_stq.push([ 'clickTrackerInit', '114849652', '4802' ]);
+</script>
+</body>
+</html>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 40/50 objects using disk
+Page Caching using disk: enhanced 
+Minified using disk
+Database Caching 2/37 queries in 0.013 seconds using disk
+
+Served from: fitgirl-repacks.site @ 2019-06-09 01:06:43 by W3 Total Cache
+-->

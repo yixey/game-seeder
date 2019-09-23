@@ -1,0 +1,459 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) & !(IE 8)]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<title>Grim Dawn &#8211; v1.1.1.1 + 6 DLCs + Multiplayer | FitGirl Repacks</title>
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://fitgirl-repacks.site/xmlrpc.php">
+	<!--[if lt IE 9]>
+	<script src="http://fitgirl-repacks.site/wp-content/themes/twentyfourteen/js/html5.js"></script>
+	<![endif]-->
+	<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="FitGirl Repacks &raquo; Feed" href="http://fitgirl-repacks.site/feed/" />
+<link rel="alternate" type="application/rss+xml" title="FitGirl Repacks &raquo; Comments Feed" href="http://fitgirl-repacks.site/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="FitGirl Repacks &raquo; Grim Dawn &#8211; v1.1.1.1 + 6 DLCs + Multiplayer Comments Feed" href="http://fitgirl-repacks.site/grim-dawn/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/fitgirl-repacks.site\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.0.2"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='twentyfourteen-jetpack-css'  href='http://fitgirl-repacks.site/wp-content/plugins/jetpack/modules/theme-tools/compat/twentyfourteen.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='http://fitgirl-repacks.site/wp-includes/css/dist/block-library/style.min.css?ver=5.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='twentyfourteen-lato-css'  href='https://fonts.googleapis.com/css?family=Lato%3A300%2C400%2C700%2C900%2C300italic%2C400italic%2C700italic&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='http://fitgirl-repacks.site/wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css?ver=3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='twentyfourteen-style-css'  href='http://fitgirl-repacks.site/wp-content/themes/twentyfourteen/style.css?ver=5.0.2' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentyfourteen-ie-css'  href='http://fitgirl-repacks.site/wp-content/themes/twentyfourteen/css/ie.css?ver=20131205' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='jetpack_css-css'  href='http://fitgirl-repacks.site/wp-content/plugins/jetpack/css/jetpack.css?ver=5.5.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://fitgirl-repacks.site/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://fitgirl-repacks.site/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://fitgirl-repacks.site/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://fitgirl-repacks.site/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://fitgirl-repacks.site/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Operencia: The Stolen Sun' href='http://fitgirl-repacks.site/operencia-the-stolen-sun/' />
+<link rel='next' title='LEGO DC Super-Villains + 10 DLCs' href='http://fitgirl-repacks.site/lego-dc-super-villains/' />
+<meta name="generator" content="WordPress 5.0.2" />
+<link rel="canonical" href="http://fitgirl-repacks.site/grim-dawn/" />
+<link rel='shortlink' href='http://fitgirl-repacks.site/?p=9468' />
+<link rel="alternate" type="application/json+oembed" href="http://fitgirl-repacks.site/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ffitgirl-repacks.site%2Fgrim-dawn%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://fitgirl-repacks.site/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ffitgirl-repacks.site%2Fgrim-dawn%2F&#038;format=xml" />
+<style type='text/css'>img#wpstats{display:none}</style>	<style type="text/css" id="twentyfourteen-header-css">
+			.site-title a {
+			color: #f887ff;
+		}
+		</style>
+	<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #0a0a0a; }
+</style>
+<link rel="icon" href="http://fitgirl-repacks.site/wp-content/uploads/2016/08/cropped-icon-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="http://fitgirl-repacks.site/wp-content/uploads/2016/08/cropped-icon-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://fitgirl-repacks.site/wp-content/uploads/2016/08/cropped-icon-180x180.jpg" />
+<meta name="msapplication-TileImage" content="http://fitgirl-repacks.site/wp-content/uploads/2016/08/cropped-icon-270x270.jpg" />
+<meta name="yandex-verification" content="e9e371f57f200b9b" />
+<style>
+#disqus_thread {
+    width: 80% !important;
+    margin: 0 auto !important;
+}
+</style>
+
+</head>
+
+<body class="post-template-default single single-post postid-9468 single-format-standard custom-background masthead-fixed full-width singular">
+<div id="page" class="hfeed site">
+	
+	<header id="masthead" class="site-header" role="banner">
+		<div class="header-main">
+			<h1 class="site-title"><a href="http://fitgirl-repacks.site/" rel="home">FitGirl Repacks</a></h1>
+
+			<div class="search-toggle">
+				<a href="#search-container" class="screen-reader-text" aria-expanded="false" aria-controls="search-container">Search</a>
+			</div>
+
+			<nav id="primary-navigation" class="site-navigation primary-navigation" role="navigation">
+				<button class="menu-toggle">Primary Menu</button>
+				<a class="screen-reader-text skip-link" href="#content">Skip to content</a>
+				<div class="menu-main-menu-container"><ul id="primary-menu" class="nav-menu"><li id="menu-item-1531" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1531"><a href="http://fitgirl-repacks.site/all-my-repacks-a-z/">All My Repacks, A-Z</a></li>
+<li id="menu-item-1532" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1532"><a href="http://fitgirl-repacks.site/faq/">FAQ</a></li>
+<li id="menu-item-1533" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1533"><a href="http://fitgirl-repacks.site/donations/">Donate</a>
+<ul class="sub-menu">
+	<li id="menu-item-8964" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8964"><a href="http://fitgirl-repacks.site/donate-by-mining/">Donate by Mining</a></li>
+</ul>
+</li>
+<li id="menu-item-1534" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1534"><a href="http://fitgirl-repacks.site/contacts/">Contacts</a></li>
+<li id="menu-item-1707" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1707"><a href="http://fitgirl-repacks.site/repacks-troubleshooting/">Repacks Troubleshooting</a></li>
+</ul></div>			</nav>
+		</div>
+
+		<div id="search-container" class="search-box-wrapper hide">
+			<div class="search-box">
+				<form role="search" method="get" class="search-form" action="http://fitgirl-repacks.site/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form>			</div>
+		</div>
+	</header><!-- #masthead -->
+
+	<div id="main" class="site-main">
+
+	<div id="primary" class="content-area">
+		<div id="content" class="site-content" role="main">
+			
+<article id="post-9468" class="post-9468 post type-post status-publish format-standard hentry category-lossless-repack">
+	
+	<header class="entry-header">
+				<div class="entry-meta">
+			<span class="cat-links" id="potato"><a href="http://fitgirl-repacks.site/category/lossless-repack/" rel="category tag">Lossless Repack</a></span>
+		</div>
+		<h1 class="entry-title">Grim Dawn &#8211; v1.1.1.1 + 6 DLCs + Multiplayer</h1>
+		<div class="entry-meta">
+			<span class="entry-date"><a href="http://fitgirl-repacks.site/grim-dawn/" rel="bookmark"><time class="entry-date" datetime="2019-03-31T23:10:22+00:00">March 31, 2019</time></a></span> <span class="byline"><span class="author vcard"><a class="url fn n" href="http://fitgirl-repacks.site/author/admin-fitgirl/" rel="author">FitGirl</a></span></span>			<span class="comments-link"><a href="http://fitgirl-repacks.site/grim-dawn/#respond"><span class="dsq-postid" data-dsqidentifier="9468 http://fitgirl-repacks.site/?p=9468">Leave a comment</span></a></span>
+					</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<h3><span style="color: #339966;">#357 Updated</span> <strong>Grim Dawn <span style="color: #808080;">v1.1.1.1 + 6 DLCs + Multiplayer</span></strong></h3>
+<p style="height: 200px; display: block;"><a target="_blank" href="http://en.riotpixels.com/games/grim-dawn-forgotten-gods/"><img class="alignleft" width="150" src="https://i110.fastpic.ru/big/2019/0401/5c/5a7a1adfd8eda1e5213f09bbd7567c5c.jpg" /></a><br />
+Genres/Tags: <strong>RPG, Action RPG, Isometric, 3D</strong><br />
+Company: <strong>Crate Entertainment</strong><br />
+Languages: <strong>RUS/ENG/MULTI10</strong><br />
+Original Size: <strong>8.9 GB</strong><br />
+Repack Size: <strong>4.7 GB</strong></p>
+<p></p>
+<h3>Download Mirrors</h3>
+<ul>
+<li><a href="https://1337x.to/torrent/3682922/Grim-Dawn-v1-1-1-1-6-DLCs-Multiplayer-MULTi10-FitGirl-Repack/" target="_blank">1337x</a> | <a href="https://katcr.co/torrent/3062740/grim-dawn-v1-1-1-1-6-dlcs-multiplayer-multi10-fitgirl-repack.html" target="_blank">KAT</a> [<a href="magnet:?xt=urn:btih:E35619523549E121ED00897058BC4A5E090AED19">magnet</a>] [<a href="http://sendfile.su/1485775" target="_blank">.torrent file only</a>]</li>
+<li><a href="http://rutor.info/torrent/691198/grim-dawn-v-1.1.1.1-hotfix-2-dlcs-2016-pc-repack-ot-fitgirl" target="_blank">RuTor</a> [<a href="magnet:?xt=urn:btih:2c034ae07289d3f7ed53f94e132daf8259b5cd77&#038;dn=rutor.info_Grim+Dawn+%5Bv+1.1.1.1+hotfix+2+%2B+DLC%27s%5D+%282016%29+PC+%7C+RePack+%D0%BE%D1%82+FitGirl&#038;tr=udp://opentor.org:2710&#038;tr=udp://opentor.org:2710&#038;tr=http://retracker.local/announce">magnet</a>]</li>
+<li><a href="https://tapochek.net/viewtopic.php?p=2580001" target="_blank">Tapochek.net</a></li>
+<li><a href="https://paste2.org/ZzUHCKKj" target="_blank">Filehoster: MultiUpload</a> (10+ hosters, interchangeable) [Use <a href="http://jdownloader.org/jdownloader2" target="_blank">JDownloader2</a>]</li>
+<li><a href="https://public.upera.co/f/b9o00jkd" target="_blank" rel="noopener">Filehoster: Upera</a> (Uploaded by Nice_2000, NOT compatible with other mirrors)</li>
+<li><a href="https://pastebin.com/raw/YK53Mpni" target="_blank" rel="noopener">Filehosters: Google Drive + 2</a> (Uploaded by Uria Urikra and hermietkreeft, compatible with torrent)</li>
+<li><a href="https://www.worldsrc.org/games/detalis?Ty=230" target="_blank" rel="noopener">Filehoster: WorldSrc</a> (NOT compatible with other mirrors)</li>
+</ul>
+<p><a href="https://cs.rin.ru/forum/viewtopic.php?f=10&#038;t=63042" target="_blank">Discussion and (possible) future updates on CS.RIN.RU thread</a></p>
+<h3>Screenshots (Click to enlarge)</h3>
+<p><a target="_blank" href="http://en.riotpixels.com/games/grim-dawn-forgotten-gods/screenshots/27/?utm_source=emb-gfx-html&#038;utm_medium=image&#038;utm_campaign=rp-mass"><img width="178" height="100" border="0" src="http://s01.riotpixels.net/data/0b/fe/0bfe3d95-c2b2-46ae-867a-f5e993e8bfe6.jpg.240p.jpg"></a><a target="_blank" href="http://en.riotpixels.com/games/grim-dawn-forgotten-gods/screenshots/24/?utm_source=emb-gfx-html&#038;utm_medium=image&#038;utm_campaign=rp-mass"><img width="178" height="100" border="0" src="http://s01.riotpixels.net/data/b8/2c/b82c2341-0f5c-4a71-a106-7a05633d7be5.jpg.240p.jpg"></a><a target="_blank" href="http://en.riotpixels.com/games/grim-dawn-forgotten-gods/screenshots/21/?utm_source=emb-gfx-html&#038;utm_medium=image&#038;utm_campaign=rp-mass"><img width="178" height="100" border="0" src="http://s01.riotpixels.net/data/b9/82/b982aa32-1ea9-4a47-bf67-b91c0c3d5934.jpg.240p.jpg"></a><br />
+<a target="_blank" href="http://en.riotpixels.com/games/grim-dawn-forgotten-gods/screenshots/20/?utm_source=emb-gfx-html&#038;utm_medium=image&#038;utm_campaign=rp-mass"><img width="178" height="100" border="0" src="http://s01.riotpixels.net/data/d2/15/d2158aa2-f93b-4888-98e8-f1c92b2b6884.jpg.240p.jpg"></a><a target="_blank" href="http://en.riotpixels.com/games/grim-dawn-forgotten-gods/screenshots/18/?utm_source=emb-gfx-html&#038;utm_medium=image&#038;utm_campaign=rp-mass"><img width="178" height="100" border="0" src="http://s01.riotpixels.net/data/88/93/88930752-4932-4849-9fda-42e5b3042b30.jpg.240p.jpg"></a><a target="_blank" href="http://en.riotpixels.com/games/grim-dawn-forgotten-gods/screenshots/9/?utm_source=emb-gfx-html&#038;utm_medium=image&#038;utm_campaign=rp-mass"><img width="178" height="100" border="0" src="http://s01.riotpixels.net/data/12/44/124449bc-0073-4dfb-9c5a-f07220029d6b.jpg.240p.jpg"></a></p>
+<h3>Repack Features</h3>
+<ul>
+<li>Based on Grim.Dawn.Forgotten.Gods-CODEX ISO release: codex-grim.dawn.forgotten.gods.iso (9,520,414,720 bytes)
+<li>Grim.Dawn.Forgotten.Gods.Update.v1.1.1.1-CODEX (37 MB) and Christsnatcher&#8217;s Fix for x64 version installed over
+<li>Steamworks Fix by deadmau5 is available in NoDVD folder after installation, allowing multiplayer via Steam
+<li>6 DLCs included and activated
+<li>Community translations downloaded and installed
+<li>100% Lossless &#038; MD5 Perfect: all files are identical to originals after installation
+<li>NOTHING ripped, NOTHING re-encoded
+<li>Significantly smaller archive size (compressed from cumulative 8.9 to 4.7 GB)
+<li>Installation takes 8-15 minutes (depending on your system)
+<li>After-install integrity check so you could make sure that everything installed properly
+<li>HDD space after installation: 10 GB (~14 GB during installation)
+<li>Language can be changed in game settings
+<li>At least 2 GB of free RAM (inc. virtual) required for installing this repack
+<li>Repack uses XTool library by Razor12911
+</ul>
+<div class="su-spoiler su-spoiler-style-fancy su-spoiler-icon-plus su-spoiler-closed"><div class="su-spoiler-title"><span class="su-spoiler-icon"></span>Game Description</div><div class="su-spoiler-content su-clearfix" style="display:none">
+<p>Enter an apocalyptic fantasy world where humanity is on the brink of extinction, iron is valued above gold and trust is hard earned. This ARPG features complex character development, hundreds of unique items, crafting and quests with choice &#038; consequence.</p>
+<p>Crate Entertainment is a small indie studio founded by the lead gameplay designer of Titan Quest and includes veterans from such companies as Blizzard North, Irrational and Harmonix.</p>
+<p><b>Game Features</b></p>
+<ul>
+<li>Dual Class &#8211; Combine any of six distinct classes with over 25 skills and modifiers per class. Base classes include Soldier, Demolitionist, Occultist, Nightblade, Arcanist and Shaman.
+<li>Hundreds of Item Skills &#8211; Augment your class build with a diverse array of over 250 unique skills granted by items and equipment add-ons.
+<li>Collect hundreds of Items &#8211; Common, magical, rare, epic and legendary classes of loot. Plus over 20,000 possible magical affix combinations and over 200 rare affixes.
+<li>Quests with Choice and Consequence &#8211; You will face tough decisions that leave significant impacts upon the world. Strangers on the road, desperate families and even entire villages may live or perish based on your actions. Currently over 35 quests with 75+ lore notes to be collected.
+<li>Friendly and Enemy Factions &#8211; Earn favor with human factions to unlock additional quest lines, vendor discounts and special faction-based items and augments. Some neutral factions you can be turned into allies but aiding one will make the enemy of another. Hostile factions will remember your deeds and deepen their hatred of you, sending out large packs and elite heroes to hunt you down.
+<li>Devotion, an additional layer of skill customization allows you to acquire bonuses and powerful secondary effects for your class skills. These are unlocked from a giant constellation map with points acquired by finding and restoring destroyed or corrupted shrines hidden throughout the world.
+<li>Rebuild the World &#8211; Help human enclaves survive and flourish by securing vital necessities, rebuilding structures and rescuing survivors who can then lend their services to your cause.
+<li>4 Person Multiplayer &#8211; Connect with Friends or make new allies in glorious multiplayer. Multiplayer encounters will put your teamwork to the ultimate challenge.
+<li>Fast-paced Visceral Combat &#8211; Enemy blood spatters, ragdoll physics and satisfying enemy death effects. Smash in doors and fight house to house, leaving a path of demolished furniture in your wake.
+<li>Rotatable Camera &#8211; If you choose to survey the full beauty of the world and always fight from the most optimal angle. Levels are still designed so that players are not forced to rotate the camera; it is purely optional.
+<li>Secrets and Perils Abound &#8211; 200+ Enemy heroes and bosses, hand-configured with their own unique arrays of deadly skills. 20+ secret areas hidden behind crumbling walls, hidden gaps and mysterious locked doors. Explode obstacles or repair structures to open new paths.
+<li>Rogue-Like Dungeons &#8211; Descend into special locked challenge dungeons that require a rare crafted key, where enemy levels increase as you progress and player teleport is disabled. There is no way out except to complete the dungeon or die trying.
+<li>Dynamic Weather &#8211; The world is brought to life with region-specific climates and a variety of weather effects. A sunny day can cloud over with mild rain showers that builds into a booming thunderstorm. Variable wind gusts blow grass and affect objects like windmills.
+<li>Recipe Based Crafting &#8211; Collect over 250 crafting recipes that allow you to combine salvaged components into unique crafted items and then, later, use those basic crafted items with higher-tiered recipes to complete items of amazing power.
+<li>Reclaim Skill Points &#8211; The ability to pay to reclaim points alleviates the fear and frustration of having to make early, uninformed skill choices that could permanently gimp a character.
+</ul>
+<p><b>Included DLCs</b></p>
+<ul>
+<li>Massively Stylish Powdered Wig
+<li>Loyalist Package
+<li>Crucible Mode DLC
+<li>Steam Loyalist Upgrade
+<li>Ashes of Malmouth Expansion
+<li>Forgotten Gods Expansion
+</ul>
+</div></div>
+[b]Bakcwards Compatibility[/b]
+<p>This repack IS NOT backwards compatible with my previos GD repacks.</p>
+             		
+	</div><!-- .entry-content -->
+	
+	</article>
+
+<style>
+#potatoid {
+background-color: #dfeedf;
+border: 1px solid #aad0aa;
+border-radius: 3px;
+padding: 10px;
+width: 75%;
+margin: 0 auto;
+}
+.donatebutton {
+background-color: #24890d !important;
+color: white !important;
+display: block !important;
+text-align: center !important;
+padding: 5px !important;
+text-decoration: none !important;
+margin: 0 3px;
+}
+.donatebutton:hover {
+background-color: #1d710a !important;
+}
+
+</style>
+
+<div id="potatoid">
+<table width="100%" style="border: 0; margin-bottom: 5px"><tr>
+<td width="74" style="border: 0"><img src="http://fitgirl-repacks.site/wp-content/uploads/2016/08/cropped-icon-192x192.jpg" width="64" height="64"></td>
+<td style="border: 0; vertical-align: middle;font-size:10pt">If you like what I do, please consider donating to help me maintain this site and seedboxes for my repacks. You may also donate not crypto, but your CPU/GPU power.</td>
+<td width="20%" style="border: 0; vertical-align: middle;"><a href="http://fitgirl-repacks.site/donate-by-mining/" class="donatebutton">Donate by Mining</a></td>
+<td width="20%" style="border: 0; vertical-align: middle;"><a href="http://fitgirl-repacks.site/donations/" class="donatebutton">Donate BTC</a></td>
+
+</tr>
+</table>
+
+
+</div>
+
+<!--
+<div id="potatoid" style="background-color:red; width: 100%; height: 10px;">Comments</div>
+-->
+
+
+<!-- #post-## -->
+	<nav class="navigation post-navigation" role="navigation">
+		<h1 class="screen-reader-text">Post navigation</h1>
+		<div class="nav-links">
+			<a href="http://fitgirl-repacks.site/operencia-the-stolen-sun/" rel="prev"><span class="meta-nav">Previous Post</span>Operencia: The Stolen Sun</a><a href="http://fitgirl-repacks.site/lego-dc-super-villains/" rel="next"><span class="meta-nav">Next Post</span>LEGO DC Super-Villains + 10 DLCs</a>		</div><!-- .nav-links -->
+	</nav><!-- .navigation -->
+	
+<div id="disqus_thread">
+    </div>
+
+		</div>
+	
+		<!-- #content -->
+		
+	</div><!-- #primary -->
+
+
+<div id="secondary">
+	
+		<nav role="navigation" class="navigation site-navigation secondary-navigation">
+		<div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1531"><a href="http://fitgirl-repacks.site/all-my-repacks-a-z/">All My Repacks, A-Z</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1532"><a href="http://fitgirl-repacks.site/faq/">FAQ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1533"><a href="http://fitgirl-repacks.site/donations/">Donate</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8964"><a href="http://fitgirl-repacks.site/donate-by-mining/">Donate by Mining</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1534"><a href="http://fitgirl-repacks.site/contacts/">Contacts</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1707"><a href="http://fitgirl-repacks.site/repacks-troubleshooting/">Repacks Troubleshooting</a></li>
+</ul></div>	</nav>
+	
+		<div id="primary-sidebar" class="primary-sidebar widget-area" role="complementary">
+		<aside id="custom_html-5" class="widget_text widget widget_custom_html"><h1 class="widget-title">Support the Cause</h1><div class="textwidget custom-html-widget"><style>
+table#lbcss {font-size:14px}
+table#lbcss td {padding:3px}
+#lbjoin,#lbjoin2 {background-color: #24890d !important;color:white !important;display:block !important;text-align:center !important;padding:5px !important;}
+</style>
+
+<a href="http://fitgirl-repacks.site/donate-by-mining/" id="lbjoin">Donate by Mining</a>
+<center>or</center>
+<a href="http://fitgirl-repacks.site/donations/" id="lbjoin2">Donate BTC</a>
+</div></aside><aside id="custom_html-2" class="widget_text widget widget_custom_html"><h1 class="widget-title">My RSS Feed</h1><div class="textwidget custom-html-widget">Subscribe to <a href=http://fitgirl-repacks.site/feed/>this RSS feed</a> and get latest updates automatically. </div></aside><aside id="blog_subscription-2" class="widget jetpack_subscription_widget"><h1 class="widget-title">Subscribe to my releases via Email</h1>
+			<form action="#" method="post" accept-charset="utf-8" id="subscribe-blog-blog_subscription-2">
+				<div id="subscribe-text"><p>Enter your email address to subscribe to this blog and receive notifications of new posts by email.</p>
+</div><p>Join 22,225 other subscribers</p>
+					<p id="subscribe-email">
+						<label id="jetpack-subscribe-label" for="subscribe-field-blog_subscription-2">
+							Email Address						</label>
+						<input type="email" name="email" required="required" class="required" value="" id="subscribe-field-blog_subscription-2" placeholder="Email Address" />
+					</p>
+
+					<p id="subscribe-submit">
+						<input type="hidden" name="action" value="subscribe" />
+						<input type="hidden" name="source" value="http://fitgirl-repacks.site/grim-dawn/" />
+						<input type="hidden" name="sub-type" value="widget" />
+						<input type="hidden" name="redirect_fragment" value="blog_subscription-2" />
+												<input type="submit" value="Subscribe" name="jetpack_subscriptions_widget" />
+					</p>
+							</form>
+
+			<script>
+			/*
+			Custom functionality for safari and IE
+			 */
+			(function( d ) {
+				// In case the placeholder functionality is available we remove labels
+				if ( ( 'placeholder' in d.createElement( 'input' ) ) ) {
+					var label = d.querySelector( 'label[for=subscribe-field-blog_subscription-2]' );
+						label.style.clip 	 = 'rect(1px, 1px, 1px, 1px)';
+						label.style.position = 'absolute';
+						label.style.height   = '1px';
+						label.style.width    = '1px';
+						label.style.overflow = 'hidden';
+				}
+
+				// Make sure the email value is filled in before allowing submit
+				var form = d.getElementById('subscribe-blog-blog_subscription-2'),
+					input = d.getElementById('subscribe-field-blog_subscription-2'),
+					handler = function( event ) {
+						if ( '' === input.value ) {
+							input.focus();
+
+							if ( event.preventDefault ){
+								event.preventDefault();
+							}
+
+							return false;
+						}
+					};
+
+				if ( window.addEventListener ) {
+					form.addEventListener( 'submit', handler, false );
+				} else {
+					form.attachEvent( 'onsubmit', handler );
+				}
+			})( document );
+			</script>
+				
+</aside><aside id="archives-2" class="widget widget_archive"><h1 class="widget-title">Monthly Archives</h1>		<ul>
+			<li><a href='http://fitgirl-repacks.site/2019/06/'>June 2019</a>&nbsp;(9)</li>
+	<li><a href='http://fitgirl-repacks.site/2019/05/'>May 2019</a>&nbsp;(32)</li>
+	<li><a href='http://fitgirl-repacks.site/2019/04/'>April 2019</a>&nbsp;(21)</li>
+	<li><a href='http://fitgirl-repacks.site/2019/03/'>March 2019</a>&nbsp;(38)</li>
+	<li><a href='http://fitgirl-repacks.site/2019/02/'>February 2019</a>&nbsp;(21)</li>
+	<li><a href='http://fitgirl-repacks.site/2019/01/'>January 2019</a>&nbsp;(22)</li>
+	<li><a href='http://fitgirl-repacks.site/2018/12/'>December 2018</a>&nbsp;(20)</li>
+	<li><a href='http://fitgirl-repacks.site/2018/11/'>November 2018</a>&nbsp;(26)</li>
+	<li><a href='http://fitgirl-repacks.site/2018/10/'>October 2018</a>&nbsp;(30)</li>
+	<li><a href='http://fitgirl-repacks.site/2018/09/'>September 2018</a>&nbsp;(28)</li>
+	<li><a href='http://fitgirl-repacks.site/2018/08/'>August 2018</a>&nbsp;(27)</li>
+	<li><a href='http://fitgirl-repacks.site/2018/07/'>July 2018</a>&nbsp;(28)</li>
+	<li><a href='http://fitgirl-repacks.site/2018/06/'>June 2018</a>&nbsp;(32)</li>
+	<li><a href='http://fitgirl-repacks.site/2018/05/'>May 2018</a>&nbsp;(18)</li>
+	<li><a href='http://fitgirl-repacks.site/2018/04/'>April 2018</a>&nbsp;(13)</li>
+	<li><a href='http://fitgirl-repacks.site/2018/03/'>March 2018</a>&nbsp;(21)</li>
+	<li><a href='http://fitgirl-repacks.site/2018/02/'>February 2018</a>&nbsp;(25)</li>
+	<li><a href='http://fitgirl-repacks.site/2018/01/'>January 2018</a>&nbsp;(11)</li>
+	<li><a href='http://fitgirl-repacks.site/2017/12/'>December 2017</a>&nbsp;(19)</li>
+	<li><a href='http://fitgirl-repacks.site/2017/11/'>November 2017</a>&nbsp;(23)</li>
+	<li><a href='http://fitgirl-repacks.site/2017/10/'>October 2017</a>&nbsp;(26)</li>
+	<li><a href='http://fitgirl-repacks.site/2017/09/'>September 2017</a>&nbsp;(25)</li>
+	<li><a href='http://fitgirl-repacks.site/2017/08/'>August 2017</a>&nbsp;(26)</li>
+	<li><a href='http://fitgirl-repacks.site/2017/07/'>July 2017</a>&nbsp;(22)</li>
+	<li><a href='http://fitgirl-repacks.site/2017/06/'>June 2017</a>&nbsp;(32)</li>
+	<li><a href='http://fitgirl-repacks.site/2017/05/'>May 2017</a>&nbsp;(40)</li>
+	<li><a href='http://fitgirl-repacks.site/2017/04/'>April 2017</a>&nbsp;(22)</li>
+	<li><a href='http://fitgirl-repacks.site/2017/03/'>March 2017</a>&nbsp;(22)</li>
+	<li><a href='http://fitgirl-repacks.site/2017/02/'>February 2017</a>&nbsp;(19)</li>
+	<li><a href='http://fitgirl-repacks.site/2017/01/'>January 2017</a>&nbsp;(10)</li>
+	<li><a href='http://fitgirl-repacks.site/2016/12/'>December 2016</a>&nbsp;(22)</li>
+	<li><a href='http://fitgirl-repacks.site/2016/11/'>November 2016</a>&nbsp;(20)</li>
+	<li><a href='http://fitgirl-repacks.site/2016/10/'>October 2016</a>&nbsp;(26)</li>
+	<li><a href='http://fitgirl-repacks.site/2016/09/'>September 2016</a>&nbsp;(45)</li>
+	<li><a href='http://fitgirl-repacks.site/2016/08/'>August 2016</a>&nbsp;(36)</li>
+	<li><a href='http://fitgirl-repacks.site/2016/07/'>July 2016</a>&nbsp;(377)</li>
+		</ul>
+		</aside><aside id="custom_html-4" class="widget_text widget widget_custom_html"><h1 class="widget-title">Press Play for my OST</h1><div class="textwidget custom-html-widget"><p><iframe src="https://www.youtube.com/embed/72QAAOaYW2M" allowfullscreen="" width="90%" frameborder="0"></iframe><br>
+<br>
+or original version for Japanese games<br>
+<br>
+<iframe src="https://www.youtube.com/embed/KJ7H-DfbFZI" allowfullscreen="" width="90%" frameborder="0"></iframe></p>
+</div></aside>	</div><!-- #primary-sidebar -->
+	</div><!-- #secondary -->
+
+		</div><!-- #main -->
+
+		<footer id="colophon" class="site-footer" role="contentinfo">
+
+			
+			<div class="site-info">
+								<a href="https://wordpress.org/">Proudly powered by WordPress</a>
+			</div><!-- .site-info -->
+		</footer><!-- #colophon -->
+	</div><!-- #page -->
+
+	<link rel='stylesheet' id='font-awesome-css'  href='//netdna.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css?ver=4.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='su-box-shortcodes-css'  href='http://fitgirl-repacks.site/wp-content/plugins/shortcodes-ultimate/assets/css/box-shortcodes.css?ver=5.0.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201923'></script>
+<script type='text/javascript' src='http://fitgirl-repacks.site/wp-content/plugins/social-polls-by-opinionstage/js/shortcodes.js?ver=18.1.0'></script>
+<script type='text/javascript' src='http://fitgirl-repacks.site/wp-includes/js/comment-reply.min.js?ver=5.0.2'></script>
+<script type='text/javascript' src='http://fitgirl-repacks.site/wp-content/themes/twentyfourteen/js/functions.js?ver=20150315'></script>
+<script type='text/javascript' src='http://fitgirl-repacks.site/wp-includes/js/wp-embed.min.js?ver=5.0.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var embedVars = {"disqusConfig":{"platform":"wordpress@5.0.2","language":""},"disqusIdentifier":"9468 http:\/\/fitgirl-repacks.site\/?p=9468","disqusShortname":"fitgirl-repacks-site","disqusTitle":"Grim Dawn \u2013 v1.1.1.1 + 6 DLCs + Multiplayer","disqusUrl":"http:\/\/fitgirl-repacks.site\/grim-dawn\/","options":{"manualSync":"1"},"postId":"9468"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://fitgirl-repacks.site/wp-content/plugins/disqus-comment-system/media/js/disqus.js?ver=5.0.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"fitgirl-repacks-site"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://fitgirl-repacks.site/wp-content/plugins/disqus-comment-system/media/js/count.js?ver=5.0.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var su_other_shortcodes = {"no_preview":"This shortcode doesn't work in live preview. Please insert it into editor and preview on the site."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://fitgirl-repacks.site/wp-content/plugins/shortcodes-ultimate/assets/js/other-shortcodes.js?ver=5.0.1'></script>
+<script type='text/javascript' src='https://stats.wp.com/e-201923.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:5.5.1',blog:'114849652',post:'9468',tz:'0',srv:'fitgirl-repacks.site'} ]);
+	_stq.push([ 'clickTrackerInit', '114849652', '9468' ]);
+</script>
+</body>
+</html>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 40/50 objects using disk
+Page Caching using disk: enhanced 
+Minified using disk
+Database Caching 2/9 queries in 0.003 seconds using disk
+
+Served from: fitgirl-repacks.site @ 2019-06-09 01:07:15 by W3 Total Cache
+-->
