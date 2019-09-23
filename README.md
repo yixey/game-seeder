@@ -56,17 +56,17 @@ I have included a mirror of the site in my repo. I suggest you use mine as to no
 
 Grep command with search pattern to extract magnet link hash.This hash can be imported into clients such as qBittorent.
 
-grep -RisIowh -m 1 "[[:xdigit:]]\{40\}" * | sort --unique > master.txt
 
--m 1 stops after first match becasue sometimes two links for one file are on a page
+
+
 
 this will leave you with a very large list of hashes.
 
 ```
-Give the example
+grep -RisIowh -m 1 "[[:xdigit:]]\{40\}" * | sort --unique > master.txt
 ```
 
-And repeat
+-m 1 stops after first match becasue sometimes two links for one file are on a page
 
 ```
 until finished
