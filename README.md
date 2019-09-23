@@ -49,21 +49,17 @@ Run Wireguard Ansible playbook to setup VPN Server.
 Connect client to VPN.
 
 Use the mirror option to recursivly download a whole site. Not Google of course!...though I havent tried.
-
+```
 wget --mirror fitgirl-repacks.site
-
+```
 I have included a mirror of the site in my repo. I suggest you use mine as to not take their site offline.
 
 Grep command with search pattern to extract magnet link hash.This hash can be imported into clients such as qBittorent.
 
-
-
-
-
 this will leave you with a very large list of hashes.
 
 ```
-grep -RisIowh -m 1 "[[:xdigit:]]\{40\}" * | sort --unique > master.txt
+grep -RisIowh -m 1 "[[:xdigit:]]\{40\}" * | sort --unique > Hashes
 ```
 
 -m 1 stops after first match becasue sometimes two links for one file are on a page
